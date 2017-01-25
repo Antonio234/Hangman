@@ -7,7 +7,7 @@ import sys
 import string
 import random
 
-#Here is an extra
+
 character_list = string.ascii_lowercase
 word_list = ['this will be your real list']
 word = (random.choice(word_list))
